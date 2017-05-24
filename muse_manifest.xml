@@ -1,0 +1,55 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="lui.com" resolutions="1x" timestamp="1495596282510">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3913579843" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>search:phone>interests:index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>search:phone>interests:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>search:phone>interests:index"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:phone>search:phone>interests:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>search:phone>interests:index"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>search:phone>interests:index"/>
+  </folder>
+  <folder name="images">
+    <file name="settings.png" crc="536316411" seo="true" ref="phone>index"/>
+    <file name="logo-1.jpg" crc="4254970789" seo="true" ref="phone>index"/>
+    <file name="f_iconsvg.png" crc="215736621" seo="true" ref="phone>index"/>
+    <file name="google_plus1600.png" crc="4034247857" seo="true" ref="phone>index"/>
+    <file name="home.png" crc="431375538" seo="true" ref="phone>index:phone>search"/>
+    <file name="search.png" crc="4266321368" seo="true" ref="phone>index:phone>search:phone>interests"/>
+    <file name="trophy.png" crc="4082850701" seo="true" ref="phone>index:phone>search"/>
+    <file name="avatar.png" crc="172769680" seo="true" ref="phone>index:phone>search"/>
+    <file name="play-button.png" crc="4185252567" seo="true" ref="phone>index:phone>search:phone>interests"/>
+    <file name="blank-home-button.png" crc="493033582" seo="true" ref="phone>index:phone>search:phone>interests"/>
+    <file name="18136189_1726433934043318_1147564197_n333x591.jpg" crc="4056079546" seo="true" ref="phone>search"/>
+    <file name="add-user.png" crc="4069816371" seo="true" ref="phone>search"/>
+    <file name="speech-bubble.png" crc="4063828248" seo="true" ref="phone>search"/>
+    <file name="18136189_1726433934043318_1147564197_n-crop-u583.jpg" crc="252295672" ref="phone>search"/>
+    <file name="18318403_1735077726512272_1171200184_o.jpg" crc="362335248" seo="true" ref="phone>interests"/>
+    <file name="18261309_1735077719845606_335786144_o-crop-u889.jpg" crc="3780331525" ref="phone>interests"/>
+    <file name="18318403_1735077726512272_1171200184_o-crop-u909.jpg" crc="3869591246" ref="phone>interests"/>
+    <file name="18261309_1735077719845606_335786144_o-crop-u916.jpg" crc="254431032" ref="phone>interests"/>
+    <file name="settings25x26.png" crc="56731379" seo="true" ref="index"/>
+    <file name="logo-1231x56.jpg" crc="3971024659" seo="true" ref="index"/>
+    <file name="f_iconsvg22x23.png" crc="329559159" seo="true" ref="index"/>
+    <file name="google_plus160030x31.png" crc="3963854661" seo="true" ref="index"/>
+    <file name="home20x20.png" crc="3861204635" seo="true" ref="index"/>
+    <file name="search20x20.png" crc="457686150" seo="true" ref="index"/>
+    <file name="trophy20x20.png" crc="3954174118" seo="true" ref="index"/>
+    <file name="avatar20x20.png" crc="3945663079" seo="true" ref="index"/>
+    <file name="play-button18x18.png" crc="478334859" seo="true" ref="index"/>
+    <file name="blank-home-button17x17.png" crc="3809917957" seo="true" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="search.css" crc="326890097" ref="phone>search"/>
+      <file name="interests.css" crc="3988376237" ref="phone>interests"/>
+      <file name="index.css" crc="4291325270" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3838919001" seo="true" mt="1495595102430" redirect="true"/>
+    <file name="search.html" crc="4033748834" seo="true" mt="1493779918032" redirect="true"/>
+    <file name="interests.html" crc="4036625065" seo="true" mt="1493782225413" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4165070495" seo="true" mt="1495594980983" redirect="true"/>
+</manifest>
